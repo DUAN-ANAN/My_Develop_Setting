@@ -7,6 +7,7 @@
 - SQL Server
 	- SSMS
 - Notepad++
+- Postman
 - 7-zip
 - Docker Desktop
 - Spotify
