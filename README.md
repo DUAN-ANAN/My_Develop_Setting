@@ -14,3 +14,4 @@
 - Spotify
 - Line
 - Microsodt Office Series
+- Duplicati
