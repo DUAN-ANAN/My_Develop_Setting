@@ -15,3 +15,11 @@
 - Line
 - Microsodt Office Series
 - Duplicati
+
+### 2024 new version
+
+- IDE
+	- Jetbrian Rider
+- Testing
+	- Postman
+- 
